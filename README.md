@@ -24,9 +24,6 @@ Neural-PCA provides better architectural inductive bias for normalizing flow, wh
 ## Getting Started
 ### Training
 
-``` bash
-bash ./scripts/train_mnist_neuralpca_UnsupFixSigma.sh
-```
 
 ## Citation
 ```
